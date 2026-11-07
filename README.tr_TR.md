@@ -1,5 +1,7 @@
 [English](/README.md) | [فارسی](/README.fa_IR.md) | [العربية](/README.ar_EG.md) | [中文](/README.zh_CN.md) | [Español](/README.es_ES.md) | [Русский](/README.ru_RU.md) | [Türkçe](/README.tr_TR.md)
 
+> **Not:** Bu depo, [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) projesinin bir fork'udur. Resmî proje, sürümler ve dokümantasyon için lütfen orijinal depoya bakın.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/3x-ui-dark.png">

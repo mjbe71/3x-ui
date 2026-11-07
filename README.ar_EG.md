@@ -1,5 +1,7 @@
 [English](/README.md) | [فارسی](/README.fa_IR.md) | [العربية](/README.ar_EG.md) | [中文](/README.zh_CN.md) | [Español](/README.es_ES.md) | [Русский](/README.ru_RU.md) | [Türkçe](/README.tr_TR.md)
 
+> **ملاحظة:** هذا المستودع نسخة مشتقة (fork) من [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui). يُرجى الرجوع إلى المستودع الأصلي للاطلاع على المشروع الرسمي والإصدارات والتوثيق.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/3x-ui-dark.png">
